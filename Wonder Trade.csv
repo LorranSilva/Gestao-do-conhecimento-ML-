@@ -1,0 +1,501 @@
+Date;Time;Pokemon;Trainer Region;Trainer Subregion;Pokemon Region;Level;Level Met;Gender;Type1;Type2;Nature;Pokeball;Held Item;Perfect IVs
+12/13/16;17:28;Oricorio;South Korea;;;13;10;F;Electric;Flying;Sassy;Poke;F;0
+12/13/16;17:30;Zubat;United States;Texas;GER;8;8;M;Poison;Flying;Hardy;Poke;F;1
+12/13/16;17:31;Carbink;United States;Oklahoma;;10;10;N;Rock;Fairy;Relaxed;Poke;F;0
+12/13/16;17:33;Klefki;United States;Connecticut;;29;29;M;Steel;Fairy;Jolly;Quick;F;0
+12/13/16;17:34;Luvdisc;United States;;;16;16;M;Water;;Naughty;Quick;F;0
+12/13/16;17:35;Roggenrola;United Kingdom;;SPA;10;10;M;Rock;;Modest;Poke;F;1
+12/13/16;17:36;Salandit;United States;California;;19;19;M;Poison;Fire;Sassy;Quick;F;0
+12/13/16;17:38;Yungoos;United States;Indiana;;7;7;M;Normal;;Quiet;Great;F;0
+12/13/16;17:39;Wimpod;United States;New York;;1;1;F;Bug;Water;Impish;Quick;F;3
+12/13/16;17:41;Rowlet;France;;FRE;1;1;M;Grass;Flying;Adamant;Poke;F;5
+12/13/16;17:42;Shinx;Germany;;GER;1;1;F;Electric;;Modest;Beast;F;5
+12/13/16;17:44;A.Meowth;Canada;;JPN;26;26;M;Dark;;Jolly;Ultra;F;0
+12/13/16;17:45;Mimikyu;Germany;;;1;1;M;Ghost;Fairy;Hardy;Ultra;F;0
+12/13/16;17:46;A.Geodude;Canada;;;28;28;M;Rock;Electric;Bold;Poke;F;0
+12/13/16;17:47;Salandit;Belgium;;SPA;17;17;M;Poison;Fire;Relaxed;Ultra;F;0
+12/13/16;17:48;Torkoal;Germany;;;26;26;F;Fire;;Jolly;Quick;F;0
+12/13/16;17:50;Trumbeak;United States;Virginia;;22;3;M;Normal;Flying;Hasty;Poke;F;0
+12/13/16;17:51;A.Vulpix;United States;Louisiana;;1;1;F;Ice;;Timid;Ultra;F;2
+12/13/16;17:52;Litwick;Mexico;;SPA;15;10;F;Ghost;Fire;Careful;Great;F;0
+12/13/16;17:54;A.Vulpix;United States;Illinois;JPN;1;1;F;Ice;;Bold;Great;F;0
+12/13/16;17:55;Fomantis;Brazil;;;15;15;F;Grass;;Quirky;Great;F;0
+12/13/16;17:56;Abra;United States;New York;;5;5;M;Psychic;;Sassy;Great;F;0
+12/13/16;17:57;Litten;United States;New York;;1;1;M;Fire;;Timid;Poke;F;0
+12/13/16;17:58;A.Diglett;Italy;;;11;11;F;Ground;Steel;Sassy;Poke;F;1
+12/13/16;18:00;Dratini;United States;Pennsylvania;;24;24;M;Dragon;;Timid;Quick;F;0
+12/13/16;18:02;A.Raticate;Germany;;FRE;57;57;F;Dark;Normal;Careful;Great;F;0
+12/13/16;18:03;Trumbeak;United States;Florida;;20;20;M;Normal;Flying;Sassy;Poke;F;0
+12/13/16;18:04;Magikarp;United States;Georgia;;12;12;M;Water;;Serious;Poke;F;0
+12/13/16;18:05;Beldum;Japan;;JPN;1;1;N;Steel;Psychic;Jolly;Beast;F;3
+12/13/16;18:07;Snorunt;Germany;;GER;47;47;M;Ice;;Jolly;Ultra;F;0
+12/13/16;18:08;Wingull;United Kingdom;;;54;54;M;Water;Flying;Bold;Poke;F;0
+12/13/16;18:10;Grubbin;United States;Massachusetts;JPN;13;13;M;Bug;;Naive;Poke;F;0
+12/13/16;18:11;Yungoos;United States;California;;6;6;F;Normal;;Quiet;Poke;F;1
+12/13/16;18:12;A.Raticate;United States;Pennsylvania;;29;29;F;Dark;Normal;Relaxed;Dusk;F;0
+12/13/16;18:13;Rowlet;United States;Massachusetts;;1;1;M;Grass;Flying;Adamant;Poke;F;4
+12/13/16;18:15;Magnemite;Germany;;GER;10;8;N;Electric;Steel;Lonely;Poke;F;1
+12/13/16;18:16;Grubbin;United States;New York;;1;1;F;Bug;;Quirky;Poke;F;0
+12/13/16;18:17;Exeggcute;United States;Florida;;43;43;M;Grass;Psychic;Sassy;Great;F;0
+12/13/16;18:19;Salandit;Canada;;;22;20;M;Poison;Fire;Bashful;Poke;F;0
+12/13/16;18:19;Cubone;United States;Pennsylvania;;16;16;F;Ground;;Impish;Great;F;0
+12/13/16;18:21;Rowlet;Canada;;;1;1;M;Grass;Flying;Bashful;Poke;F;0
+12/13/16;18:22;Salandit;Germany;;;18;18;M;Poison;Fire;Careful;Great;F;0
+12/13/16;18:23;A.Grimer;United States;Delaware;;14;6;F;Poison;Dark;Lonely;Poke;F;0
+12/13/16;19:59;Smeargle;United States;California;;1;1;M;Normal;;Adamant;Great;F;0
+12/13/16;20:01;Gastly;United States;New York;;7;7;F;Ghost;Poison;Sassy;Quick;F;0
+12/13/16;20:02;A.Raticate;United States;California;GER;40;40;M;Dark;Normal;Timid;Great;F;0
+12/13/16;20:03;Trapinch;United States;North Carolina;;1;1;M;Ground;;Naive;Ultra;F;0
+12/13/16;20:05;Trumbeak;United States;Illinois;;15;3;M;Normal;Flying;Relaxed;Poke;F;0
+12/13/16;20:06;Machop;United States;Florida;;9;9;M;Fighting;;Brave;Poke;T;1
+12/13/16;20:07;Comfey;Japan;;;20;20;F;Fairy;;Docile;Great;F;0
+12/13/16;20:09;Wailmer;Japan;;JPN;12;12;M;Water;;Docile;Poke;F;1
+12/13/16;20:10;Mudbray;United States;Texas;;13;13;M;Ground;;Calm;Ultra;F;1
+12/13/16;20:11;Wingull;Belgium;;SPA;17;17;M;Water;Flying;Timid;Poke;F;0
+12/13/16;20:12;Cubone;United States;Colorado;;1;1;M;Ground;;Brave;Luxury;F;3
+12/13/16;20:14;Sandygast;United Kingdom;;;1;1;F;Ghost;Ground;Careful;Ultra;F;1
+12/13/16;20:15;Mimikyu;United States;New Jersey;;1;1;M;Ghost;Fairy;Jolly;Timer;F;0
+12/13/16;20:16;Abra;Japan;;JPN;1;1;M;Psychic;;Naive;Ultra;F;2
+12/13/16;20:18;A.Geodude;United States;Florida;;1;1;F;Rock;Electric;Modest;Ultra;F;4
+12/13/16;20:19;Shellder;South Korea;;KOR;1;1;F;Water;;Naughty;Heavy;F;5
+12/13/16;20:20;Growlithe;United States;Washington;SPA;8;7;M;Fire;;Impish;Poke;F;0
+12/13/16;20:21;Scyther;Canada;;CHS;1;1;M;Bug;Flying;Timid;Ultra;F;0
+12/13/16;20:23;A.Diglett;United Kingdom;;;11;10;M;Ground;Steel;Serious;Great;F;1
+12/13/16;20:24;Yungoos;Canada;;;11;11;F;Normal;;Careful;Great;F;0
+12/13/16;20:25;Magnemite;Japan;;GER;8;8;N;Electric;Steel;Quirky;Poke;F;1
+12/13/16;20:26;Pikipek;United States;California;SPA;3;3;F;Normal;Flying;Quiet;Poke;F;0
+12/14/16;12:34;Sandygast;Italy;;;1;1;M;Ghost;Ground;Docile;Ultra;F;5
+12/14/16;12:36;Cutiefly;France;;SPA;12;11;M;Bug;Fairy;Bashful;Poke;F;1
+12/14/16;12:37;Mimikyu;Anguilla;;;1;1;F;Ghost;Fairy;Hardy;Ultra;F;0
+12/14/16;12:39;Spinda;United States;Florida;;13;13;M;Normal;;Sassy;Great;F;0
+12/14/16;12:40;Rockruff;Canada;;;1;1;M;Rock;;Calm;Heal;F;0
+12/14/16;12:41;Spearow;United Kingdom;;FRE;52;52;M;Normal;Flying;Calm;Poke;F;0
+12/14/16;12:42;Mimikyu;Spain;;;1;1;M;Ghost;Fairy;Impish;Premier;F;0
+12/14/16;12:44;Wingull;Italy;;ITA;5;5;F;Water;Flying;Bold;Poke;T;0
+12/14/16;12:45;Pichu;United States;Texas;JPN;35;5;M;Electric;;Mild;Poke;F;0
+12/14/16;12:46;A.Sandshrew;France;;FRE;1;1;F;Ice;Steel;Adamant;Premier;F;4
+12/14/16;12:48;Grubbin;United States;Ohio;KOR;5;5;F;Bug;;Quiet;Poke;F;0
+12/14/16;12:49;Jangmo-o;Italy;;ITA;1;1;F;Dragon;;Quirky;Ultra;F;0
+12/14/16;12:50;Rockruff;United States;Ohio;;1;1;M;Rock;;Hasty;Moon;F;4
+12/14/16;12:51;Golbat;Austria;;;54;54;M;Poison;Flying;Calm;Quick;F;0
+12/14/16;12:53;Snorunt;Germany;;ITA;43;43;F;Ice;;Bashful;Quick;F;1
+12/14/16;12:54;Caterpie;United States;Texas;KOR;20;20;M;Bug;;Docile;Quick;F;0
+12/14/16;12:55;A.Sandshrew;Belgium;;JPN;1;1;F;Ice;Steel;Adamant;Moon;F;2
+12/14/16;12:57;Abra;United States;Texas;;1;1;F;Psychic;;Careful;Quick;F;1
+12/14/16;12:59;Butterfree;Germany;;;15;12;M;Bug;Flying;Adamant;Net;F;0
+12/14/16;13:00;Lillipup;Peru;;SPA;14;14;F;Normal;;Bashful;Great;F;0
+12/14/16;13:02;Roggenrola;France;;GER;12;12;M;Rock;;Lax;Great;F;0
+12/14/16;13:02;Magikarp;Germany;;JPN;11;11;M;Water;;Timid;Poke;F;0
+12/14/16;13:04;Rowlet;Spain;;;1;1;M;Grass;Flying;Modest;Poke;F;1
+12/14/16;13:06;Rufflet;Mexico;;ITA;12;12;M;Normal;Flying;Hardy;Great;F;0
+12/14/16;13:07;Snorunt;United States;Oregon;GER;31;31;F;Ice;;Adamant;Poke;F;0
+12/14/16;13:37;Abra;Canada;;;7;7;F;Psychic;;Adamant;Poke;F;0
+12/14/16;13:38;Abra;Germany;;;1;1;M;Psychic;;Lax;Poke;F;1
+12/14/16;13:39;Abra;Germany;;JPN;1;1;M;Psychic;;Jolly;Ultra;F;0
+12/14/16;13:41;Gyarados;Canada;;;21;20;M;Water;Flying;Brave;Quick;F;0
+12/14/16;13:42;Yungoos;United States;;;3;3;M;Normal;;Hardy;Poke;F;0
+12/14/16;13:43;Pelipper;Spain;;CHT;30;30;F;Water;Flying;Careful;Poke;F;1
+12/14/16;13:44;Magikarp;Japan;;;1;1;M;Water;;Naive;Dive;F;2
+12/14/16;13:46;Popplio;Japan;;JPN;1;1;M;Water;;Careful;Poke;F;0
+12/14/16;13:47;A.Rattata;Russia;;JPN;7;7;M;Dark;Normal;Calm;Poke;F;1
+12/14/16;13:48;Abra;Netherlands;;JPN;5;5;M;Psychic;;Hasty;Nest;F;0
+12/14/16;13:50;Abra;Switzerland;;;1;1;M;Psychic;;Naive;Quick;F;1
+12/14/16;13:51;Machop;Spain;;;11;11;F;Fighting;;Rash;Great;F;0
+12/14/16;13:53;A.Geodude;United States;Maryland;FRE;30;30;F;Rock;Electric;Relaxed;Repeat;F;0
+12/14/16;13:54;Drowzee;Sweden;;;14;9;F;Psychic;;Sassy;Great;F;0
+12/14/16;13:55;Mankey;France;;;12;12;F;Fighting;;Relaxed;Poke;F;0
+12/14/16;14:02;Makuhita;United States;New York;;10;10;M;Fighting;;Careful;Poke;F;0
+12/14/16;14:04;A.Meowth;United Kingdom;;FRE;37;7;F;Dark;;Sassy;Premier;F;0
+12/14/16;14:05;Gumshoos;France;;SPA;23;3;F;Normal;;Timid;Poke;F;0
+12/14/16;14:06;Jangmo-o;United States;Illinois;;1;1;F;Dragon;;Relaxed;Quick;F;5
+12/14/16;14:07;Wingull;United Kingdom;;;8;8;M;Water;Flying;Lax;Poke;T;0
+12/14/16;14:09;Boldore;France;;FRE;42;42;F;Rock;;Gentle;Repeat;F;1
+12/14/16;14:11;Roggenrola;Germany;;JPN;10;10;M;Rock;;Impish;Poke;F;0
+12/14/16;14:12;Abra;United States;Montana;;1;1;M;Psychic;;Modest;Premier;F;0
+12/14/16;14:13;Luvdisc;United States;New York;SPA;13;13;F;Water;;Relaxed;Poke;F;0
+12/14/16;14:15;Bagon;Portugal;;CHT;1;1;F;Dragon;;Mild;Quick;F;4
+12/14/16;14:16;Salandit;Canada;;JPN;1;1;M;Poison;Fire;Timid;Timer;F;6
+12/14/16;15:57;Salandit;United Kingdom;;;1;1;M;Poison;Fire;Timid;Poke;F;2
+12/14/16;15:58;Eevee;United States;New York;;1;1;M;Normal;;Docile;Poke;F;3
+12/14/16;15:59;Ribombee;United States;DC;;57;57;M;Bug;Fairy;Relaxed;Ultra;F;0
+12/14/16;16:01;Eevee;France;;;1;1;M;Normal;;Naive;Premier;F;2
+12/14/16;16:02;Caterpie;Italy;;CHS;1;1;F;Bug;;Impish;Net;F;1
+12/14/16;16:03;Shellos;United States;Pennsylvania;;1;1;F;Water;;Lax;Great;F;1
+12/14/16;16:05;Cottonee;Japan;;JPN;13;9;M;Grass;Fairy;Naive;Poke;F;0
+12/14/16;16:06;Mudbray;United States;Oklahoma;;26;26;F;Ground;;Hasty;Great;F;0
+12/14/16;16:07;A.Meowth;Japan;;JPN;17;7;M;Dark;;Hasty;Poke;T;0
+12/14/16;16:09;Roggenrola;Germany;;JPN;13;13;F;Rock;;Adamant;Poke;F;0
+12/14/16;16:10;Staryu;United States;Virginia;;23;23;N;Water;;Quirky;Quick;F;0
+12/14/16;16:12;Oricorio;United States;Texas;;11;11;F;Electric;Flying;Docile;Great;F;0
+12/14/16;16:13;A.Sandshrew;Japan;;JPN;1;1;M;Ice;Steel;Modest;Poke;F;0
+12/14/16;16:15;Fletchinder;United States;New Jersey;;17;16;F;Fire;Flying;Impish;Great;F;0
+12/14/16;16:16;Spinarak;Spain;;;12;10;F;Bug;Poison;Docile;Great;F;0
+12/14/16;16:17;A.Rattata;United States;North Carolina;;8;8;F;Dark;Normal;Naughty;Poke;F;0
+12/14/16;16:18;Magikarp;United States;Tennessee;SPA;18;17;F;Water;;Docile;Net;F;0
+12/14/16;16:19;Goomy;Japan;;GER;31;31;F;Dragon;;Lonely;Dusk;F;2
+12/14/16;16:21;Stufful;United States;Pennsylvania;;1;1;F;Normal;Fighting;Adamant;Nest;F;4
+12/14/16;16:22;Mimikyu;Spain;;FRE;1;1;M;Ghost;Fairy;Serious;Dusk;F;0
+12/14/16;16:24;Salandit;United States;;GER;1;1;M;Poison;Fire;Timid;Great;F;4
+12/14/16;16:25;A.Rattata;United States;Vermont;;5;5;F;Dark;Normal;Impish;Ultra;F;0
+12/14/16;16:26;Finneon;United States;;;14;14;F;Water;;Jolly;Poke;F;1
+12/14/16;16:28;Abra;Ireland;;GER;1;1;M;Psychic;;Naive;Quick;F;0
+12/14/16;16:29;Luvdisc;United States;Missouri;;13;13;M;Water;;Naughty;Great;F;0
+12/14/16;16:30;Mimikyu;Austria;;;1;1;M;Ghost;Fairy;Naughty;Luxury;F;0
+12/14/16;16:31;A.Rattata;United Kingdom;;;17;17;F;Dark;Normal;Bashful;Repeat;F;0
+12/14/16;16:33;Popplio;Norway;;;1;1;M;Water;;Gentle;Poke;F;0
+12/14/16;16:34;Wingull;Australia;;;40;40;M;Water;Flying;Quiet;Poke;F;0
+12/14/16;16:35;Mudbray;Italy;;;14;14;F;Ground;;Hasty;Poke;F;0
+12/15/16;09:13;Shellder;Japan;;JPN;1;1;F;Water;;Timid;Dive;F;0
+12/15/16;09:15;Dewpider;Japan;;JPN;1;1;M;Water;Bug;Adamant;Luxury;F;0
+12/15/16;09:16;Carvanha;Japan;;JPN;1;1;F;Water;Dark;Naughty;Dive;F;0
+12/15/16;09:18;Bounsweet;Japan;;SPA;1;1;F;Grass;;Adamant;Poke;F;4
+12/15/16;09:19;Beldum;United Kingdom;;JPN;1;1;N;Steel;Psychic;Adamant;Nest;F;3
+12/15/16;09:20;Jangmo-o;United Kingdom;;;25;1;F;Dragon;;Lax;Great;F;0
+12/15/16;09:22;Staryu;South Korea;;KOR;27;27;N;Water;;Timid;Poke;F;0
+12/15/16;09:23;Scyther;Japan;;JPN;1;1;M;Bug;Flying;Naive;Ultra;F;1
+12/15/16;09:24;Zubat;Japan;;;1;1;M;Poison;Flying;Jolly;Dusk;F;1
+12/15/16;09:25;A.Diglett;Japan;;JPN;11;11;F;Ground;Steel;Impish;Heal;F;0
+12/15/16;09:27;Rockruff;Japan;;JPN;1;1;F;Rock;;Jolly;Heal;F;3
+12/15/16;09:28;Gible;Japan;;JPN;1;1;M;Dragon;Ground;Jolly;Beast;F;2
+12/15/16;09:29;Crabrawler;United Kingdom;;;14;14;F;Fighting;;Hasty;Great;F;0
+12/15/16;09:30;Yungoos;Japan;;;6;6;F;Normal;;Hardy;Poke;F;0
+12/15/16;09:32;A.Meowth;Germany;;;15;10;F;Dark;;Brave;Poke;F;0
+12/15/16;09:33;Riolu;Japan;;JPN;1;1;M;Fighting;;Timid;Beast;F;3
+12/15/16;09:34;Marill;Germany;;JPN;1;1;F;Water;Fairy;Adamant;Ultra;F;2
+12/15/16;09:36;Mudbray;France;;;11;11;F;Ground;;Docile;Ultra;F;0
+12/15/16;09:37;Abra;Japan;;;1;1;M;Psychic;;Calm;Poke;F;0
+12/15/16;09:38;Magnemite;Japan;;JPN;50;50;N;Electric;Steel;Modest;Poke;F;0
+12/15/16;09:40;Mudbray;United States;New York;JPN;23;13;M;Ground;;Brave;Great;F;0
+12/15/16;09:41;Mareanie;Japan;;JPN;1;1;F;Poison;Water;Relaxed;Timer;F;3
+12/15/16;09:42;A.Grimer;Sweden;;;1;1;M;Poison;Dark;Adamant;Beast;F;3
+12/15/16;09:43;Gastly;Netherlands;;JPN;1;1;F;Ghost;Poison;Timid;Dusk;F;4
+12/15/16;09:45;Fletchling;Japan;;;19;19;F;Normal;Flying;Modest;Ultra;F;0
+12/15/16;09:46;Magikarp;Japan;;JPN;1;1;M;Water;;Jolly;Net;F;1
+12/15/16;09:48;Yungoos;United Kingdom;;;7;6;M;Normal;;Bashful;Poke;F;0
+12/15/16;09:49;Ledyba;South Korea;;JPN;2;2;F;Bug;Flying;Gentle;Poke;F;0
+12/15/16;09:50;Dewpider;Germany;;;1;1;F;Water;Bug;Naive;Great;F;4
+12/15/16;09:51;Fomantis;Japan;;JPN;15;15;F;Grass;;Gentle;Poke;F;0
+12/15/16;10:24;A.Rattata;Germany;;GER;5;5;F;Dark;Normal;Hasty;Poke;F;1
+12/15/16;10:25;Deino;Japan;;JPN;1;1;F;Dark;Dragon;Modest;Beast;F;4
+12/15/16;10:27;Pikipek;Japan;;FRE;13;13;M;Normal;Flying;Quirky;Great;F;1
+12/15/16;10:28;Cubone;United States;Connecticut;;1;1;F;Ground;;Adamant;Quick;F;4
+12/15/16;10:29;Rowlet;Japan;;;1;1;M;Grass;Flying;Bold;Poke;F;0
+12/15/16;10:30;Phantump;Spain;;SPA;20;20;F;Ghost;Grass;Jolly;Quick;F;0
+12/15/16;10:32;Abra;Japan;;JPN;1;1;M;Psychic;;Bold;Quick;F;0
+12/15/16;10:34;Zubat;Japan;;JPN;11;11;M;Poison;Flying;Lonely;Poke;F;1
+12/15/16;10:35;Eevee;Japan;;JPN;1;1;M;Normal;;Brave;Poke;F;2
+12/15/16;10:36;A.Raticate;Japan;;JPN;26;26;F;Dark;Normal;Sassy;Poke;F;0
+12/15/16;10:38;Dratini;United States;North Carolina;;1;1;F;Dragon;;Lonely;Dive;F;1
+12/15/16;10:39;A.Geodude;United States;;SPA;27;27;F;Rock;Electric;Gentle;Dusk;F;0
+12/15/16;10:40;Eevee;Japan;;JPN;1;1;M;Normal;;Timid;Timer;F;1
+12/15/16;10:41;Abra;Spain;;JPN;5;5;F;Psychic;;Naive;Quick;F;0
+12/15/16;10:43;Wimpod;United States;Missouri;;17;17;F;Bug;Water;Impish;Poke;F;0
+12/15/16;10:44;Wingull;United Kingdom;;JPN;6;6;M;Water;Flying;Impish;Poke;F;0
+12/15/16;10:45;Lillipup;France;;JPN;12;12;F;Normal;;Docile;Great;F;2
+12/15/16;10:46;Glalie;Japan;;;48;45;F;Ice;;Mild;Heal;F;1
+12/15/16;10:48;Bagon;France;;;1;1;M;Dragon;;Quiet;Poke;F;0
+12/15/16;10:49;Pikipek;United States;Michigan;JPN;4;4;M;Normal;Flying;Mild;Poke;F;0
+12/15/16;10:50;Mareanie;Japan;;JPN;1;1;M;Poison;Water;Bold;Dive;F;3
+12/15/16;10:52;Stufful;Japan;;JPN;1;1;M;Normal;Fighting;Adamant;Premier;F;3
+12/15/16;10:53;Gible;France;;;1;1;F;Dragon;Ground;Naughty;Dive;F;0
+12/15/16;10:54;Comfey;Japan;;JPN;1;1;F;Fairy;;Calm;Heal;F;3
+12/15/16;10:55;Caterpie;Spain;;GER;3;3;F;Bug;;Timid;Great;F;0
+12/15/16;10:57;Dewpider;Germany;;GER;1;1;M;Water;Bug;Impish;Great;F;3
+12/15/16;10:58;Wingull;Japan;;JPN;8;8;F;Water;Flying;Calm;Poke;F;0
+12/15/16;10:59;Magnemite;Norway;;;6;6;N;Electric;Steel;Brave;Poke;F;0
+12/15/16;11:01;A.Diglett;Germany;;JPN;21;21;M;Ground;Steel;Bold;Quick;F;1
+12/15/16;11:02;Oricorio;Italy;;ITA;9;9;M;Electric;Flying;Rash;Poke;F;0
+12/15/16;12:48;Staryu;Germany;;JPN;23;23;N;Water;;Bold;Poke;F;0
+12/15/16;12:49;Barboach;United Kingdom;;JPN;15;15;M;Water;Ground;Bold;Net;F;0
+12/15/16;12:50;Pikipek;Japan;;;3;3;M;Normal;Flying;Modest;Poke;F;0
+12/15/16;12:51;Gible;United States;New York;;1;1;F;Dragon;Ground;Quirky;Beast;F;2
+12/15/16;12:53;Abra;Italy;;JPN;1;1;M;Psychic;;Quiet;Poke;F;1
+12/15/16;12:54;Mimikyu;Japan;;JPN;1;1;M;Ghost;Fairy;Jolly;Poke;F;3
+12/15/16;12:55;Emolga;Peru;;;54;54;F;Electric;Flying;Lonely;Poke;F;2
+12/15/16;12:56;Magikarp;Germany;;SPA;10;10;M;Water;;Impish;Poke;F;0
+12/15/16;12:58;A.Grimer;Spain;;SPA;7;7;M;Poison;Dark;Rash;Poke;F;1
+12/15/16;12:59;Fletchling;Poland;;GER;1;1;M;Normal;Flying;Docile;Great;F;0
+12/15/16;13:00;Minior;New Zealand;;;28;28;N;Rock;Flying;Modest;Poke;F;0
+12/15/16;13:02;Absol;United States;California;;1;1;M;Dark;;Serious;Great;F;3
+12/15/16;13:03;Wailmer;Spain;;SPA;41;41;M;Water;;Hardy;Dusk;F;0
+12/15/16;13:04;Cutiefly;Germany;;FRE;8;8;M;Bug;Fairy;Relaxed;Poke;F;0
+12/15/16;13:06;Mankey;Spain;;SPA;1;1;M;Fighting;;Quiet;Great;F;0
+12/15/16;13:07;Abra;Japan;;JPN;1;1;M;Psychic;;Brave;Quick;F;3
+12/15/16;13:08;Cottonee;Canada;;;1;1;F;Grass;Fairy;Timid;Great;F;3
+12/15/16;13:09;Gible;France;;JPN;1;1;M;Dragon;Ground;Jolly;Dusk;F;4
+12/15/16;13:10;Wingull;France;;FRE;5;5;M;Water;Flying;Brave;Poke;T;0
+12/15/16;13:11;Turtonator;United States;Michigan;;1;1;M;Fire;Dragon;Modest;Dusk;F;4
+12/15/16;13:13;Magikarp;United States;Ohio;;33;33;M;Water;;Quirky;Poke;F;1
+12/15/16;13:14;Litten;Japan;;JPN;1;1;M;Fire;;Adamant;Poke;F;3
+12/15/16;13:15;Popplio;Japan;;JPN;1;1;M;Water;;Sassy;Poke;F;0
+12/15/16;13:16;A.Meowth;Netherlands;;;8;8;F;Dark;;Bold;Poke;F;0
+12/15/16;13:18;Fletchling;United Kingdom;;GER;1;1;M;Normal;Flying;Jolly;Poke;F;4
+12/15/16;13:19;Dhelmise;Japan;;JPN;1;1;N;Ghost;Grass;Bashful;Quick;F;0
+12/15/16;13:21;Litten;Japan;;;1;1;M;Fire;;Mild;Poke;F;0
+12/15/16;13:22;Fomantis;Italy;;ITA;20;20;F;Grass;;Lax;Nest;F;2
+12/15/16;13:23;Chinchou;United States;Texas;;19;15;F;Water;Electric;Docile;Heal;F;0
+12/16/16;09:43;Zubat;Japan;;JPN;54;54;F;Poison;Flying;Naive;Poke;F;0
+12/16/16;09:44;Wishiwashi;Japan;;JPN;1;1;F;Water;;Modest;Dive;F;2
+12/16/16;09:45;Rockruff;Germany;;GER;10;10;M;Rock;;Calm;Ultra;F;0
+12/16/16;09:47;Magikarp;Japan;;ITA;1;1;M;Water;;Calm;Poke;F;2
+12/16/16;09:48;Beldum;Japan;;JPN;1;1;N;Steel;Psychic;Adamant;Great;F;5
+12/16/16;09:49;Gigalith;Japan;;;43;43;M;Rock;;Hasty;Ultra;F;1
+12/16/16;09:51;A.Grimer;Australia;;;1;1;F;Poison;Dark;Adamant;Timer;F;5
+12/16/16;09:52;Metapod;Japan;;JPN;12;12;F;Bug;;Gentle;Poke;F;1
+12/16/16;09:53;Pichu;Japan;;JPN;5;5;M;Electric;;Lax;Poke;F;0
+12/16/16;09:54;Rufflet;Japan;;JPN;11;11;M;Normal;Flying;Hasty;Quick;F;0
+12/16/16;09:56;Granbull;Canada;;JPN;41;41;F;Fairy;;Mild;Great;F;0
+12/16/16;09:57;Psyduck;Japan;;;15;15;M;Water;;Timid;Great;F;0
+12/16/16;09:58;Murkrow;Anguilla;;JPN;1;1;F;Dark;Flying;Hardy;Poke;F;2
+12/16/16;09:59;Wishiwashi;Japan;;JPN;1;1;F;Water;;Naive;Great;F;1
+12/16/16;10:01;Magikarp;Italy;;CHT;17;12;F;Water;;Modest;Poke;F;0
+12/16/16;10:02;Magikarp;South Korea;;JPN;1;1;F;Water;;Impish;Poke;F;3
+12/16/16;10:03;Mudbray;Japan;;CHS;1;1;M;Ground;;Naughty;Poke;F;0
+12/16/16;10:04;Caterpie;Germany;;GER;2;2;F;Bug;;Timid;Poke;F;0
+12/16/16;10:06;Bounsweet;Japan;;JPN;1;1;F;Grass;;Adamant;Poke;F;3
+12/16/16;10:07;Grubbin;Japan;;JPN;1;1;F;Bug;;Modest;Poke;F;3
+12/16/16;10:08;Lillipup;Japan;;;12;12;F;Normal;;Mild;Great;F;0
+12/16/16;10:09;Salandit;Ireland;;JPN;1;1;M;Poison;Fire;Brave;Poke;F;5
+12/16/16;10:11;Wimpod;Japan;;JPN;1;1;M;Bug;Water;Adamant;Heavy;F;4
+12/16/16;10:12;Salandit;Chile;;SPA;1;1;M;Poison;Fire;Quiet;Luxury;F;0
+12/16/16;10:13;Sneasel;Japan;;JPN;1;1;M;Dark;Ice;Quirky;Poke;F;1
+12/16/16;10:15;Pikipek;Japan;;JPN;55;55;M;Normal;Flying;Jolly;Poke;F;0
+12/16/16;10:16;Grubbin;Japan;;JPN;16;16;M;Bug;;Naive;Poke;F;0
+12/16/16;10:17;Abra;United States;Alaska;JPN;1;1;F;Psychic;;Bold;Ultra;F;0
+12/16/16;10:18;Ledyba;Japan;;JPN;14;3;M;Bug;Flying;Calm;Poke;F;1
+12/16/16;10:20;Metapod;Netherlands;;;7;3;M;Bug;;Serious;Poke;F;0
+12/16/16;10:36;Eevee;United Kingdom;;JPN;1;1;M;Normal;;Adamant;Love;F;3
+12/16/16;13:09;Salandit;United States;Texas;;28;1;M;Poison;Fire;Hardy;Poke;F;0
+12/16/16;13:10;Minior;Portugal;;;27;27;N;Rock;Flying;Timid;Ultra;F;1
+12/16/16;13:12;Stufful;Japan;;;23;23;F;Normal;Fighting;Sassy;Premier;F;0
+12/16/16;13:13;Miltank;Russia;;;15;15;F;Normal;;Sassy;Ultra;F;1
+12/16/16;13:14;Popplio;United States;Massachusetts;;1;1;M;Water;;Bold;Poke;F;1
+12/16/16;13:15;A.Meowth;Spain;;JPN;26;26;F;Dark;;Relaxed;Quick;F;0
+12/16/16;13:17;Mimikyu;Italy;;;1;1;F;Ghost;Fairy;Lonely;Dusk;F;1
+12/16/16;13:18;A.Meowth;Germany;;SPA;7;6;M;Dark;;Rash;Poke;F;0
+12/16/16;13:20;Magnemite;United States;New York;;8;8;N;Electric;Steel;Naive;Poke;F;0
+12/16/16;13:21;Golbat;Germany;;;29;29;F;Poison;Flying;Mild;Poke;F;0
+12/16/16;13:22;Pikipek;United States;Mississippi;;3;3;M;Normal;Flying;Careful;Poke;F;0
+12/16/16;13:23;Popplio;France;;GER;1;1;M;Water;;Jolly;Poke;F;0
+12/16/16;13:24;Magikarp;Japan;;JPN;1;1;F;Water;;Jolly;Ultra;F;3
+12/16/16;13:28;Salandit;Spain;;SPA;17;17;M;Poison;Fire;Quirky;Ultra;F;0
+12/16/16;13:29;Skarmory;Germany;;GER;27;27;M;Steel;Flying;Lonely;Ultra;F;1
+12/16/16;13:30;Yungoos;United States;California;ITA;11;3;M;Normal;;Careful;Poke;F;1
+12/16/16;13:32;A.Geodude;France;;FRE;1;1;F;Rock;Electric;Naive;Ultra;F;0
+12/16/16;13:34;Dewpider;France;;SPA;1;1;F;Water;Bug;Relaxed;Net;F;3
+12/16/16;13:35;Stufful;United States;North Carolina;JPN;1;1;F;Normal;Fighting;Adamant;Love;F;5
+12/16/16;13:36;Pikipek;United Kingdom;;;16;16;M;Normal;Flying;Bold;Great;F;0
+12/16/16;13:37;Wingull;United Kingdom;;JPN;8;5;M;Water;Flying;Brave;Poke;F;0
+12/16/16;13:38;Litten;United States;Nevada;FRE;1;1;M;Fire;;Quirky;Poke;F;0
+12/16/16;13:40;Klefki;Japan;;JPN;1;1;F;Steel;Fairy;Calm;Poke;F;1
+12/16/16;13:41;A.Dugtrio;Germany;;;44;44;M;Ground;Steel;Quirky;Ultra;F;0
+12/16/16;13:42;Snorunt;Japan;;JPN;42;42;F;Ice;;Naive;Heal;F;0
+12/16/16;13:43;Honedge;Italy;;ITA;1;1;F;Steel;Ghost;Naive;Premier;F;2
+12/16/16;13:45;A.Raticate;Japan;;JPN;54;54;M;Dark;Normal;Hardy;Quick;F;0
+12/16/16;13:46;Staryu;United States;New York;GER;23;23;N;Water;;Impish;Ultra;T;0
+12/16/16;13:47;Scyther;Japan;;JPN;1;1;M;Bug;Flying;Adamant;Ultra;F;3
+12/16/16;13:48;Komala;United States;Idaho;;1;1;F;Normal;;Lonely;Quick;F;0
+12/16/16;15:15;Machop;United States;;;13;13;F;Fighting;;Mild;Ultra;F;0
+12/16/16;15:16;A.Rattata;Germany;;GER;8;5;F;Dark;Normal;Rash;Poke;F;0
+12/16/16;15:17;Roggenrola;United Kingdom;;;13;13;M;Rock;;Hasty;Ultra;F;0
+12/16/16;15:18;Finneon;Japan;;SPA;20;20;M;Water;;Lax;Poke;F;0
+12/16/16;15:19;Gible;Mexico;;;1;1;F;Dragon;Ground;Jolly;Luxury;F;5
+12/16/16;15:21;Litten;France;;;1;1;M;Fire;;Hardy;Poke;F;0
+12/16/16;15:22;Salandit;Germany;;JPN;1;1;M;Poison;Fire;Timid;Luxury;F;5
+12/16/16;15:24;A.Vulpix;Japan;;JPN;1;1;M;Ice;;Hasty;Dusk;F;1
+12/16/16;15:25;Magikarp;United States;New Hampshire;;1;1;F;Water;;Adamant;Nest;F;5
+12/16/16;15:26;Slowpoke;Japan;;;7;6;F;Water;Psychic;Serious;Poke;F;0
+12/16/16;15:27;Torkoal;United States;California;;27;27;M;Fire;;Serious;Quick;F;0
+12/16/16;15:28;Yungoos;United States;Indiana;;2;2;M;Normal;;Modest;Poke;F;0
+12/16/16;15:29;A.Vulpix;Japan;;GER;1;1;F;Ice;;Adamant;Dusk;F;3
+12/16/16;15:31;A.Meowth;Japan;;;26;26;F;Dark;;Modest;Quick;F;0
+12/16/16;15:32;Sandile;United Kingdom;;JPN;31;31;M;Ground;Dark;Docile;Nest;F;0
+12/16/16;15:33;Finneon;France;;;17;17;M;Water;;Timid;Poke;F;0
+12/16/16;15:35;Masquerain;Spain;;SPA;26;26;M;Bug;Flying;Quirky;Quick;F;0
+12/16/16;15:35;Litten;United States;North Carolina;SPA;1;1;M;Fire;;Sassy;Poke;F;0
+12/16/16;15:37;Caterpie;Switzerland;;;4;4;M;Bug;;Impish;Great;F;0
+12/16/16;15:38;Pikipek;United Kingdom;;;1;1;F;Normal;Flying;Jolly;Luxury;F;1
+12/16/16;15:39;Yungoos;United States;Texas;;5;5;F;Normal;;Timid;Poke;F;0
+12/16/16;15:40;Wingull;United States;California;;8;8;M;Water;Flying;Relaxed;Poke;F;0
+12/16/16;15:42;Salandit;United States;Colorado;JPN;1;1;M;Poison;Fire;Adamant;Poke;F;5
+12/16/16;15:43;Ledyba;Netherlands;;ITA;3;3;F;Bug;Flying;Docile;Poke;F;0
+12/16/16;15:44;Minior;United States;Wisconsin;GER;26;26;N;Rock;Flying;Quirky;Quick;F;0
+12/16/16;15:45;Tentacool;United Kingdom;;;23;23;M;Water;Poison;Relaxed;Ultra;F;1
+12/16/16;15:47;Crabrawler;Brazil;;;8;8;M;Fighting;;Impish;Poke;F;1
+12/16/16;15:48;Cutiefly;United States;California;;1;1;M;Bug;Fairy;Modest;Poke;F;0
+12/16/16;15:49;Abra;Spain;;JPN;1;1;M;Psychic;;Gentle;Quick;F;0
+12/16/16;15:50;A.Meowth;Spain;;SPA;7;7;F;Dark;;Sassy;Poke;F;1
+12/16/16;21:09;Magnemite;United States;California;JPN;7;6;N;Electric;Steel;Modest;Poke;F;0
+12/16/16;21:10;Magnemite;United States;Florida;JPN;8;7;N;Electric;Steel;Lax;Poke;F;0
+12/16/16;21:11;Magikarp;Japan;;;11;11;M;Water;;Serious;Poke;F;0
+12/16/16;21:13;Dewpider;Japan;;JPN;1;1;F;Water;Bug;Adamant;Net;F;4
+12/16/16;21:14;Cottonee;Japan;;JPN;55;55;M;Grass;Fairy;Serious;Quick;F;0
+12/16/16;21:15;Magnemite;Canada;;JPN;26;26;N;Electric;Steel;Mild;Poke;F;0
+12/16/16;21:17;A.Diglett;United States;Indiana;;9;9;F;Ground;Steel;Quirky;Premier;F;0
+12/16/16;21:18;Mareanie;Japan;;JPN;1;1;F;Poison;Water;Quiet;Beast;F;2
+12/16/16;21:19;Yungoos;Mexico;;;4;4;F;Normal;;Bold;Poke;F;0
+12/16/16;21:20;Rowlet;Japan;;JPN;1;1;M;Grass;Flying;Gentle;Poke;F;0
+12/16/16;21:22;Minior;United States;New York;;27;27;N;Rock;Flying;Mild;Ultra;F;1
+12/16/16;21:23;Bagon;United States;California;;1;1;F;Dragon;;Impish;Poke;F;0
+12/16/16;21:24;Mimikyu;Spain;;;1;1;F;Ghost;Fairy;Adamant;Poke;F;1
+12/16/16;21:26;Goldeen;United States;Tennessee;;10;10;M;Water;;Timid;Quick;F;0
+12/16/16;21:27;Litten;United States;Kansas;;1;1;M;Fire;;Quirky;Poke;F;0
+12/16/16;21:28;Rockruff;United States;Massachusetts;;28;13;M;Rock;;Calm;Nest;F;0
+12/16/16;21:29;Cubone;United States;New Jersey;JPN;1;1;M;Ground;;Adamant;Ultra;F;1
+12/16/16;21:31;Abra;United States;Michigan;JPN;1;1;F;Psychic;;Sassy;Ultra;F;0
+12/16/16;21:32;Abra;Japan;;JPN;1;1;M;Psychic;;Quirky;Quick;F;0
+12/16/16;21:33;Dewpider;United States;Georgia;;16;16;F;Water;Bug;Bashful;Nest;F;0
+12/16/16;21:34;Cutiefly;Japan;;;12;12;F;Bug;Fairy;Mild;Great;F;0
+12/16/16;21:36;Magikarp;Japan;;JPN;15;15;F;Water;;Impish;Quick;F;0
+12/16/16;21:37;Litten;United States;New Jersey;JPN;1;1;M;Fire;;Mild;Poke;F;2
+12/16/16;21:38;Tentacool;United States;Ohio;JPN;21;21;M;Water;Poison;Docile;Dive;F;0
+12/16/16;21:39;Rowlet;United States;Utah;JPN;1;1;M;Grass;Flying;Adamant;Poke;F;4
+12/16/16;21:40;Mimikyu;Japan;;JPN;1;1;M;Ghost;Fairy;Jolly;Poke;F;3
+12/16/16;21:42;Fletchling;Japan;;JPN;19;19;F;Normal;Flying;Naughty;Great;F;0
+12/16/16;21:43;Gastrodon;Japan;;JPN;41;41;F;Water;Ground;Mild;Poke;F;0
+12/16/16;21:44;Yungoos;Japan;;;3;3;F;Normal;;Bashful;Poke;F;0
+12/16/16;21:45;Exeggcute;Japan;;;44;43;F;Grass;Psychic;Quirky;Great;F;0
+12/17/16;10:52;Pikipek;United States;Oregon;FRE;10;3;M;Normal;Flying;Impish;Poke;F;0
+12/17/16;10:53;Makuhita;Japan;;CHT;9;9;F;Fighting;;Bashful;Poke;F;0
+12/17/16;10:55;Abra;United Kingdom;;JPN;6;6;M;Psychic;;Docile;Poke;F;1
+12/17/16;10:56;Drampa;United States;Virginia;JPN;1;1;F;Normal;Dragon;Timid;Quick;F;0
+12/17/16;10:57;Zubat;Spain;;JPN;49;49;F;Poison;Flying;Adamant;Poke;F;0
+12/17/16;10:59;Cutiefly;Japan;;;1;1;F;Bug;Fairy;Timid;Quick;F;0
+12/17/16;11:00;Rowlet;United States;Texas;;1;1;M;Grass;Flying;Calm;Poke;F;0
+12/17/16;11:01;Emolga;Japan;;JPN;55;55;M;Electric;Flying;Careful;Poke;F;0
+12/17/16;11:02;A.Vulpix;Japan;;;9;1;M;Ice;;Jolly;Premier;F;0
+12/17/16;11:04;Rowlet;United Kingdom;;;1;1;F;Grass;Flying;Gentle;Poke;F;0
+12/17/16;11:05;Yungoos;United States;Florida;FRE;5;5;F;Normal;;Impish;Poke;F;0
+12/17/16;11:06;A.Rattata;Japan;;GER;5;5;M;Dark;Normal;Bashful;Poke;F;0
+12/17/16;11:07;Bagon;Japan;;JPN;1;1;F;Dragon;;Modest;Poke;F;3
+12/17/16;11:09;Porygon;United States;Wisconsin;;1;1;N;Normal;;Sassy;Poke;F;4
+12/17/16;11:10;Poliwag;Mexico;;;54;54;F;Water;;Lonely;Poke;F;1
+12/17/16;11:11;Mimikyu;Japan;;GER;1;1;F;Ghost;Fairy;Adamant;Poke;F;1
+12/17/16;11:13;Magnemite;Italy;;JPN;10;8;N;Electric;Steel;Brave;Poke;F;0
+12/17/16;11:14;Wingull;Italy;;GER;5;5;M;Water;Flying;Modest;Poke;F;1
+12/17/16;11:15;Gible;Spain;;JPN;1;1;M;Dragon;Ground;Adamant;Beast;F;4
+12/17/16;11:17;Mimikyu;United Kingdom;;;1;1;F;Ghost;Fairy;Lonely;Ultra;F;0
+12/17/16;11:18;Bagon;United Kingdom;;;1;1;F;Dragon;;Adamant;Beast;F;2
+12/17/16;11:19;A.Diglett;France;;FRE;17;17;M;Ground;Steel;Jolly;Great;F;0
+12/17/16;11:21;Exeggcute;United States;North Carolina;;43;43;M;Grass;Psychic;Rash;Nest;F;2
+12/17/16;11:22;Gible;Japan;;JPN;1;1;M;Dragon;Ground;Jolly;Dive;F;3
+12/17/16;11:23;A.Rattata;United States;Pennsylvania;;4;4;M;Dark;Normal;Naive;Quick;F;0
+12/17/16;12:31;Abra;Japan;;JPN;1;1;F;Psychic;;Bashful;Poke;F;1
+12/17/16;12:32;Magnemite;Japan;;;6;6;N;Electric;Steel;Mild;Poke;F;0
+12/17/16;12:33;Rockruff;Japan;;GER;1;1;M;Rock;;Bold;Great;F;0
+12/17/16;12:35;A.Vulpix;United States;California;;1;1;M;Ice;;Timid;Moon;F;5
+12/17/16;12:36;A.Vulpix;Germany;;;1;1;F;Ice;;Timid;Moon;F;4
+12/17/16;12:38;Gible;Japan;;JPN;1;1;F;Dragon;Ground;Jolly;Beast;F;3
+12/17/16;12:39;Spearow;United States;Alabama;;10;10;F;Normal;Flying;Naive;Poke;F;0
+12/17/16;12:40;Mimikyu;United Kingdom;;;1;1;F;Ghost;Fairy;Naive;Poke;F;4
+12/17/16;12:41;Magikarp;United States;Virginia;JPN;1;1;F;Water;;Timid;Nest;F;0
+12/17/16;12:43;Magikarp;France;;JPN;10;10;F;Water;;Careful;Poke;F;0
+12/17/16;12:44;Wingull;Italy;;GER;7;7;F;Water;Flying;Lonely;Net;F;1
+12/17/16;12:45;Oricorio;United Kingdom;;SPA;9;9;F;Electric;Flying;Hasty;Poke;F;0
+12/17/16;12:47;Mimikyu;Germany;;JPN;1;1;M;Ghost;Fairy;Brave;Poke;F;2
+12/17/16;12:48;Wingull;Germany;;ITA;5;5;M;Water;Flying;Impish;Poke;F;1
+12/17/16;12:49;Mimikyu;Austria;;;1;1;F;Ghost;Fairy;Mild;Dusk;F;0
+12/17/16;12:51;Fomantis;United Kingdom;;JPN;1;1;M;Grass;;Adamant;Love;F;2
+12/17/16;12:52;Yungoos;Spain;;SPA;17;17;M;Normal;;Careful;Ultra;F;0
+12/17/16;12:53;A.Rattata;France;;FRE;8;8;F;Dark;Normal;Lax;Poke;F;1
+12/17/16;12:54;Cutiefly;Japan;;JPN;12;12;F;Bug;Fairy;Lonely;Poke;F;0
+12/17/16;12:56;A.Vulpix;Japan;;JPN;1;1;F;Ice;;Timid;Dive;F;5
+12/17/16;12:57;Grubbin;United States;New York;;1;1;M;Bug;;Hardy;Poke;F;4
+12/17/16;12:58;A.Rattata;United States;Florida;JPN;3;3;M;Dark;Normal;Bashful;Ultra;T;1
+12/17/16;12:59;Fletchling;Japan;;CHS;19;19;M;Normal;Flying;Careful;Poke;F;0
+12/17/16;13:00;Wishiwashi;Netherlands;;;1;1;M;Water;;Sassy;Dive;F;1
+12/17/16;13:02;Magnemite;United States;;FRE;7;7;N;Electric;Steel;Bold;Poke;F;0
+12/17/16;13:03;Zubat;Japan;;;23;23;M;Poison;Flying;Quirky;Poke;F;1
+12/17/16;13:04;Sandygast;United States;Minnesota;;22;22;M;Ghost;Ground;Hasty;Repeat;F;0
+12/17/16;13:05;Pikipek;Switzerland;;;3;3;M;Normal;Flying;Lax;Poke;F;3
+12/17/16;13:08;A.Vulpix;Japan;;;21;1;F;Ice;;Bashful;Quick;F;0
+12/17/16;15:19;Mimikyu;Finland;;;1;1;M;Ghost;Fairy;Adamant;Moon;F;3
+12/17/16;15:21;Spinarak;United States;New York;;2;2;M;Bug;Poison;Relaxed;Poke;F;0
+12/17/16;15:22;A.Rattata;United States;Indiana;;3;3;F;Dark;Normal;Calm;Ultra;F;0
+12/17/16;15:23;Scyther;United States;California;;53;53;M;Bug;Flying;Bold;Poke;F;0
+12/17/16;15:26;Magnemite;Japan;;FRE;5;5;N;Electric;Steel;Naive;Poke;F;1
+12/17/16;15:27;Ledyba;France;;FRE;3;3;F;Bug;Flying;Modest;Poke;F;0
+12/17/16;15:28;Yungoos;Germany;;GER;6;6;F;Normal;;Quirky;Ultra;F;0
+12/17/16;15:29;Grubbin;United States;;;3;3;F;Bug;;Adamant;Poke;F;1
+12/17/16;15:30;Ledyba;Germany;;GER;5;5;M;Bug;Flying;Quirky;Ultra;F;0
+12/17/16;15:32;Komala;Germany;;GER;1;1;M;Normal;;Bold;Ultra;F;0
+12/17/16;15:33;Fearow;United States;Illinois;GER;27;27;F;Normal;Flying;Rash;Great;F;0
+12/17/16;15:34;A.Rattata;Brazil;;;8;8;M;Dark;Normal;Bashful;Poke;F;0
+12/17/16;15:35;Magikarp;Japan;;JPN;1;1;M;Water;;Naughty;Beast;F;0
+12/17/16;15:36;Machop;Mexico;;;9;9;M;Fighting;;Brave;Poke;T;1
+12/17/16;15:38;A.Meowth;Germany;;;1;1;M;Dark;;Brave;Dusk;F;1
+12/17/16;15:39;Drowzee;Mexico;;;9;9;M;Psychic;;Bashful;Ultra;F;0
+12/17/16;15:40;Honedge;United States;Colorado;JPN;1;1;F;Steel;Ghost;Quiet;Quick;F;2
+12/17/16;15:42;A.Vulpix;Italy;;;1;1;F;Ice;;Modest;Premier;F;0
+12/17/16;15:43;Mudbray;Germany;;GER;14;14;F;Ground;;Jolly;Quick;F;0
+12/17/16;15:44;A.Grimer;Italy;;;8;8;M;Poison;Dark;Serious;Great;F;0
+12/17/16;15:45;Gumshoos;Italy;;;24;4;M;Normal;;Docile;Poke;F;0
+12/17/16;15:47;Eevee;France;;;1;1;M;Normal;;Gentle;Poke;F;1
+12/17/16;15:48;Deino;United States;Kansas;;1;1;F;Dark;Dragon;Relaxed;Dusk;F;0
+12/17/16;15:49;Fletchinder;United States;Missouri;;18;18;M;Fire;Flying;Mild;Great;F;0
+12/17/16;15:50;Abra;Japan;;JPN;6;6;M;Psychic;;Calm;Quick;F;0
+12/17/16;15:51;Pikipek;United States;California;GER;12;12;M;Normal;Flying;Hardy;Nest;F;0
+12/17/16;15:53;Lunala;Spain;;SPA;55;55;N;Psychic;Ghost;Timid;Master;T;6
+12/17/16;15:54;Skarmory;Spain;;;25;25;F;Steel;Flying;Sassy;Poke;F;1
+12/17/16;15:56;A.Rattata;United States;Wisconsin;;5;5;M;Dark;Normal;Lax;Poke;F;0
+12/17/16;15:57;Rowlet;Finland;;;1;1;M;Grass;Flying;Hasty;Poke;F;1
+12/17/16;23:40;Skarmory;Japan;;JPN;27;27;M;Steel;Flying;Naive;Quick;F;0
+12/17/16;23:41;Dewpider;Brazil;;;1;1;M;Water;Bug;Adamant;Net;F;3
+12/17/16;23:42;Gible;Japan;;;1;1;M;Dragon;Ground;Adamant;Beast;F;2
+12/17/16;23:43;Mimikyu;Canada;;;1;1;M;Ghost;Fairy;Adamant;Ultra;F;3
+12/17/16;23:45;Eevee;Japan;;CHT;1;1;M;Normal;;Bold;Dusk;F;3
+12/17/16;23:46;A.Raticate;United States;Texas;;30;30;M;Dark;Normal;Naughty;Poke;F;0
+12/17/16;23:47;Gastly;Ireland;;;9;7;F;Ghost;Poison;Serious;Poke;F;1
+12/17/16;23:49;Rockruff;Japan;;;1;1;M;Rock;;Adamant;Ultra;F;1
+12/17/16;23:50;Minior;United States;Texas;;1;1;N;Rock;Flying;Naughty;Poke;F;2
+12/17/16;23:51;Mimikyu;United States;Nevada;;1;1;M;Ghost;Fairy;Bashful;Great;F;1
+12/17/16;23:54;Stufful;United States;Ohio;;20;20;M;Normal;Fighting;Brave;Repeat;F;0
+12/17/16;23:55;Mimikyu;Japan;;JPN;1;1;F;Ghost;Fairy;Adamant;Poke;F;4
+12/17/16;23:57;Pyukumuku;Japan;;JPN;16;16;F;Water;;Brave;Great;F;1
+12/17/16;23:58;Magikarp;Japan;;JPN;35;35;F;Water;;Careful;Dive;F;0
+12/17/16;23:59;Mudbray;United States;Pennsylvania;;11;11;M;Ground;;Bold;Great;F;0
+12/18/16;00:00;Yungoos;Japan;;JPN;9;9;F;Normal;;Serious;Quick;F;0
+12/18/16;00:02;Wingull;United States;Texas;JPN;1;1;M;Water;Flying;Impish;Beast;F;2
+12/18/16;00:03;Abra;Japan;;JPN;6;6;F;Psychic;;Jolly;Quick;F;0
+12/18/16;00:04;A.Rattata;Japan;;JPN;6;6;M;Dark;Normal;Gentle;Poke;F;0
+12/18/16;00:05;Absol;Japan;;JPN;1;1;M;Dark;;Adamant;Beast;F;3
+12/18/16;00:07;Fearow;Japan;;JPN;25;25;M;Normal;Flying;Timid;Ultra;F;1
+12/18/16;00:08;Abra;United States;Ohio;CHS;1;1;F;Psychic;;Docile;Quick;F;2
+12/18/16;00:09;Salandit;Japan;;JPN;19;19;F;Poison;Fire;Jolly;Luxury;F;0
+12/18/16;00:11;Yungoos;Japan;;JPN;21;6;F;Normal;;Naughty;Poke;F;0
+12/18/16;00:12;Granbull;Japan;;JPN;56;56;F;Fairy;;Hasty;Poke;F;0
+12/18/16;00:13;Rockruff;Canada;;;11;11;M;Rock;;Jolly;Great;F;0
+12/18/16;00:15;Magnemite;United States;Washington;JPN;6;6;N;Electric;Steel;Jolly;Poke;F;0
+12/18/16;00:16;A.Rattata;Japan;;;20;20;F;Dark;Normal;Docile;Nest;F;0
+12/18/16;00:17;Grubbin;Japan;;JPN;1;1;M;Bug;;Modest;Poke;F;4
+12/18/16;00:18;Skarmory;United States;Georgia;JPN;1;1;F;Steel;Flying;Quirky;Poke;F;1
+12/18/16;16:01;A.Rattata;France;;ITA;5;5;F;Dark;Normal;Naive;Poke;F;0
+12/18/16;16:02;Snivy;United States;;SPA;1;1;M;Grass;;Timid;Luxury;F;5
+12/18/16;16:03;Fletchling;United States;Washington;JPN;18;18;M;Normal;Flying;Relaxed;Poke;F;0
+12/18/16;16:05;Cyndaquil;United States;Pennsylvania;;1;1;M;Fire;;Docile;Ultra;F;2
+12/18/16;16:06;Rowlet;United States;Ohio;;1;1;M;Grass;Flying;Jolly;Poke;F;5
+12/18/16;16:07;Abra;United Kingdom;;;8;7;F;Psychic;;Serious;Nest;F;0
+12/18/16;16:08;Wimpod;Germany;;;1;1;F;Bug;Water;Adamant;Heavy;F;3
+12/18/16;16:10;Magikarp;United States;North Carolina;SPA;14;14;F;Water;;Relaxed;Poke;F;0
+12/18/16;16:11;Pancham;Germany;;;32;32;M;Fighting;;Lax;Ultra;F;0
+12/18/16;16:12;Magikarp;United States;;JPN;1;1;M;Water;;Jolly;Net;F;2
+12/18/16;16:14;Litten;United States;Michigan;;1;1;F;Fire;;Hasty;Poke;F;0
+12/18/16;16:15;Wingull;United States;South Carolina;;12;12;F;Water;Flying;Jolly;Poke;F;1
+12/18/16;16:16;Murkrow;United States;Alaska;;1;1;M;Dark;Flying;Rash;Poke;F;0
+12/18/16;16:17;A.Vulpix;France;;SPA;1;1;M;Ice;;Timid;Premier;F;5
+12/18/16;16:18;Abra;Netherlands;;JPN;5;5;M;Psychic;;Calm;Quick;F;0
+12/18/16;16:20;Mareanie;Germany;;GER;1;1;M;Poison;Water;Rash;Ultra;F;0
+12/18/16;16:21;Litwick;Germany;;;1;1;F;Ghost;Fire;Timid;Nest;F;5
+12/18/16;16:22;Roggenrola;United Kingdom;;GER;11;11;F;Rock;;Bold;Ultra;F;0
+12/18/16;16:23;Abra;France;;CHS;7;7;M;Psychic;;Naughty;Quick;F;0
+12/18/16;16:25;Drampa;United States;Florida;;43;43;F;Normal;Dragon;Docile;Quick;F;0
+12/18/16;16:26;A.Diglett;United States;Virginia;JPN;10;10;F;Ground;Steel;Jolly;Quick;F;1
+12/18/16;16:27;Pikipek;Italy;;SPA;7;3;M;Normal;Flying;Naughty;Poke;F;0
+12/18/16;16:28;Wingull;Brazil;;;7;7;M;Water;Flying;Adamant;Quick;T;0
+12/18/16;16:30;A.Grimer;United States;New York;;6;6;F;Poison;Dark;Careful;Ultra;F;0
+12/18/16;16:31;Gumshoos;Peru;;SPA;24;11;F;Normal;;Rash;Poke;F;0
+12/18/16;16:32;Pikipek;Spain;;SPA;12;12;F;Normal;Flying;Brave;Ultra;F;1
+12/18/16;16:33;Gumshoos;United States;Washington;;20;5;F;Normal;;Quirky;Poke;F;0
+12/18/16;16:34;Rowlet;Finland;;;1;1;M;Grass;Flying;Jolly;Poke;F;1
+12/18/16;16:36;Murkrow;Russia;;;17;17;M;Dark;Flying;Rash;Poke;F;1
+12/18/16;16:37;Crabrawler;South Korea;;;8;8;M;Fighting;;Careful;Nest;F;0
